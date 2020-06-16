@@ -111,6 +111,8 @@ glid: Bg-002-1808
 Gu Lu  
 [2018-08-04]  
 
+-------------------------------
+
 - 永久链接：[http://gulu-dev.com/post/2018/2018-08-04-huobi-report/content](http://gulu-dev.com/post/2018/2018-08-04-huobi-report/content)
 - 知乎专栏：[https://zhuanlan.zhihu.com/p/41257663](https://zhuanlan.zhihu.com/p/41257663)
 - 2020-06-16 新增编号 `Bg-002-1808` 并入库
