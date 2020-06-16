@@ -31,7 +31,7 @@ This repository contains all categorized public writings created by Gu Lu. It wo
 除非针对部分内容特别的声明，此库中所有的内容都遵循 [**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议。  
 Except where otherwise noted, content in this repository is licensed under a Creative Commons Attribution 4.0 International license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
 
-除非针对部分内容特别的声明，此库中所有的内容都遵循 [**MIT 开源协议**](https://opensource.org/licenses/MIT)。  
+除非针对部分内容的特别声明，此库中所有的代码（包含示例，片段，项目）都遵循 [**MIT 开源协议**](https://opensource.org/licenses/MIT)。  
 Except where otherwise noted, code (including samples, snippets, projects) in this repository is licensed under The MIT License ([MIT](https://opensource.org/licenses/MIT)).
 
 ------
