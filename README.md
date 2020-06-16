@@ -8,23 +8,21 @@ This repository contains all categorized public writings created by Gu Lu. It wo
 ## 分类 (Categorization)
 
 - 整个分类系统由“大写分类字母+数字编号”构成，子分类允许追加一个小写的分类字母。
-- 不确定可分入某个子分类的文章，将出现在默认分类中。
+- 不确定应分入哪个子分类的文章，将出现在默认分类中。
 - “就前不就后” 如出现了比特币相关的开发文章，优先出现在 Bitcoin 的 “B系列”，而不是 “D系列” 
 
 -----
 
-- **`B系列`** Bitcoin 相关
-    - B-001 (bitcoin-default) 默认分类，事件评述，社会金融等领域的影响
-    - Bt-001 (blockchain-tech) 技术类，包含技术原理，技术实践，产品研发等
-    - Bg-001 (blockchain-game) 区块链游戏相关
+- **`B系列`** [Bitcoin/Blockchain 相关](./B-Bitcoin/)
+    - B-00n (blockchain-default) 默认分类，事件评述，社会金融等领域的影响
+    - Bt-00n (blockchain-tech) 区块链技术类，包含技术原理，技术实践，产品研发等
+    - Bg-00n (blockchain-game) 区块链游戏相关
 - **`D系列`** 各类开发相关
-    - D-001 (dev-default) 默认分类，未放入其他分类的一般性开发相关文章
-    - Dp-001 (dev-programming) 编程，程序语言，库，工具等代码相关的文章
-    - Dg-001 (dev-game) 游戏开发相关文章
+    - D-00n (dev-default) 默认分类，未放入其他分类的一般性开发相关文章
+    - Dp-00n (dev-programming) 编程，程序语言，库，工具等代码相关的文章
+    - Dg-00n (dev-game) 游戏开发相关文章
 - **`L系列`** [在线课程，系统性的学习](./L-Learning/)
-    - L-001 默认分类
 - **`E系列`** 散文随笔
-    - E-001 默认分类
 
 ## 版权声明 (License)
 

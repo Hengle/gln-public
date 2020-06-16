@@ -1,11 +1,6 @@
-# Bitcoin 分类文章汇总
+# Blockchain 分类文章汇总
 
-- 默认分类 B-001 (bitcoin-default) 默认分类，事件评述，社会金融等领域的影响
-- Bt-001 (blockchain-tech) 技术类，包含技术原理，技术实践，产品研发等
-- Bg-001 (blockchain-game) 区块链游戏相关
-
-
-## 默认分类 (`B-00n`) bitcoin-default
+## 默认分类 (`B-00n`) blockchain-default
 
 
 ## 区块链技术 (`Bt-00n`) blockchain-tech
