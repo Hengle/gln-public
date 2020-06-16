@@ -6,6 +6,7 @@ comments: true
 status: public
 categories: [Bitcoin]
 tags: 比特币, 货币, 游戏设计
+glid: Bg-001-1502
 ---
 
 -------------------------------
@@ -239,5 +240,5 @@ Gu Lu
 - 2015-02-25 本文同时发于我在巴比特的[专栏](http://www.8btc.com/author/5666)，谢谢 [@巴比特资讯](http://weibo.com/8BTC) 帮助编辑。
 - 2015-03-21 本文已授权 GameRes 发布在[游戏策划](http://www.gameres.com/327830.html)栏和[3月20日的公众号推送](https://mp.weixin.qq.com/s/DNN86AoELZa1247R1E8Iug)。
 - 2015-02-27 本文遵循 [Creative Commons BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) 许可协议。
-- 2020-06-16 新增编号 `Bg-001-2015-02`，修整图片资源和链接，放入统一文档库
+- 2020-06-16 新增编号 `Bg-001-1502`，修整图片资源和链接，放入统一文档库
 
