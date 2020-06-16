@@ -7,6 +7,8 @@
 
 - `Bt-001-1907` [(2019.07) 链上运算：从 ETH 到 BSV](./Bt-001-1907%20onchain-computing-from-eth-to-bsv/content.md)
 - `Bt-002-1909` [(2019.09) 比特币的量子抵抗](./Bt-002-1909%20bitcoin-quantum-resistance/content.md)
+- `Bt-003-2002` [(2020.02) 数据上链：从 bitsv 到打点 API](./Bt-003-2002%20opreturn-of-dotapi-and-bitsv/content.md)
+- `Bt-004-2005` [(2020.05) Merchant API 与超低费率](./Bt-004-2005%20merchant-api-and-fee/content.md)
 
 ## 区块链游戏 (`Bg-00n`) blockchain-game
 
