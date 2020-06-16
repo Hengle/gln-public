@@ -9,7 +9,7 @@ tags: Bitcoin SV, Blockchain, Blockchain Computing
 glid: Bt-001-1907
 ---
 
-# 链上运算：从 ETH 到 BSV
+# (2019.07) 链上运算：从 ETH 到 BSV
 
 ![conchain](./onchain-computing.jpg)
 
