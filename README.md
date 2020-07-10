@@ -50,9 +50,9 @@ This repository contains all categorized public writings created by Gu Lu. It wo
 
 ### **`D系列`** 开发相关
 
-- D-00n (dev-default) 默认分类，未放入其他分类的一般性开发相关文章
-- Dp-00n (dev-programming) 编程，程序语言，库，工具等代码相关的文章
-- Dg-00n (dev-game) 游戏开发相关文章
+#### D-00n (dev-default) 默认分类
+#### Dp-00n (dev-programming) 语言，库，工具等代码相关
+#### Dg-00n (dev-game) 游戏开发相关
 
 ### **`L系列`** 系统性学习相关
 
