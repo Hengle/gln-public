@@ -45,6 +45,8 @@ This repository contains all categorized public writings created by Gu Lu. It wo
 
 ### **`P系列`** 产品相关
 
+- `P-001-2007` [(2020.07) 小聪游戏 《币币大作战》 首次测试小结](./P-Products/P-001-2007%20bbio-beta-test/content.md)
+- `P-002-2007` [(2020.07) 小聪接受 CoinGeek 远程视频采访](./P-Products/P-002-2007%20coingeek-interview/content.md)
 
 ### **`D系列`** 开发相关
 
