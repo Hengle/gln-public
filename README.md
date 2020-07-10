@@ -3,7 +3,7 @@
 ## 简介 (Intro)
 
 这个库包含了我的所有公开已分类文档，作为一个中央归档库方便未来的引用。  
-This repository contains all categorized public writings created by Gu Lu. It works as a central archive for future reference.
+This repository contains all categorized public writings created by Gu Lu for future reference.
 
 ## 分类 (Categorization)
 
@@ -16,8 +16,8 @@ This repository contains all categorized public writings created by Gu Lu. It wo
 -----
 
 - **基本规则** 分类系统由“大写分类字母+数字编号”构成，子分类允许追加一个小写的分类字母。
-- **默认分类** 不确定分类的文章，将出现在E系列中；在某个大类下不确定子分类的文章，将自动出现在该大类的默认分类里。
-- **就前不就后** 如出现了比特币相关的开发文章，优先出现在 Bitcoin 所在的 “B系列”，而不是 “D系列”。
+- **默认分类** 在某个大类下不确定子分类的文章，将自动出现在该大类的默认分类里。
+- **就前不就后** 例如，比特币相关的开发文章，优先出现在 Bitcoin 所在的“B系列”，而非“D系列”。
 
 ### **`B系列`** Bitcoin/Blockchain 相关
 
