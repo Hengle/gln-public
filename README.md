@@ -47,6 +47,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 - `P-001-2007` [(2020.07) 小聪游戏 《币币大作战》 首次测试小结](./P-Products/P-001-2007%20bbio-beta-test/content.md)
 - `P-002-2007` [(2020.07) 小聪接受 CoinGeek 远程视频采访](./P-Products/P-002-2007%20coingeek-interview/content.md)
+- `P-003-2008` [(2020.08) BSV 首届中文 devcon 小聪主题演讲](./P-Products/P-003-2008%20satoplay-production-path/2020-08-30-satoplay-production-path.md)
 
 ### **`D系列`** 开发相关
 
