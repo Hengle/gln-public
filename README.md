@@ -35,6 +35,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-002-1909` [(2019.09) 比特币的量子抵抗](./B-Bitcoin/Bt-002-1909%20bitcoin-quantum-resistance/content.md)
 - `Bt-003-2002` [(2020.02) 数据上链：从 bitsv 到打点 API](./B-Bitcoin/Bt-003-2002%20opreturn-of-dotapi-and-bitsv/content.md)
 - `Bt-004-2005` [(2020.05) Merchant API 与超低费率](./B-Bitcoin/Bt-004-2005%20merchant-api-and-fee/content.md)
+- `Bt-005-2009` [2020.09 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009 use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
 
 #### 区块链游戏 (`Bg-00n`) blockchain-game
 
