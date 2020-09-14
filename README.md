@@ -62,6 +62,10 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`E系列`** 散文随笔
 
+### **Others** 
+
+- `O-001-1801` 演讲 [(2018.01) Dice (EA) 工作室游戏开发技术概览](./O-Others/O-001-1801-ea-dice-tech-overview)
+
 ## 版权声明 (License)
 
 除非针对部分内容特别的声明，此库中所有的内容都遵循 [**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议。  
