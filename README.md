@@ -58,7 +58,8 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`L系列`** 系统性学习相关
 
-- `L-001-2006` [#得到 @饶胜文 - 大人物·项羽评传](./L-Learning/L-001-2006%20%23%E5%BE%97%E5%88%B0%20%40%E9%A5%B6%E8%83%9C%E6%96%87%20-%20%E5%A4%A7%E4%BA%BA%E7%89%A9%C2%B7%E9%A1%B9%E7%BE%BD%E8%AF%84%E4%BC%A0)
+- `L-001-1507` [慕课-李建中-中国文化概论](./L-Learning/L-001-1507-mooc_chinese_culture)
+- `L-002-2006` [得到-饶胜文-大人物·项羽评传](./L-Learning/L-002-2006-%E5%BE%97%E5%88%B0-%E9%A5%B6%E8%83%9C%E6%96%87-%E5%A4%A7%E4%BA%BA%E7%89%A9%C2%B7%E9%A1%B9%E7%BE%BD%E8%AF%84%E4%BC%A0)
 
 ### **`E系列`** 散文随笔
 
