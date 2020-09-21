@@ -35,7 +35,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-002-1909` [(2019.09) 比特币的量子抵抗](./B-Bitcoin/Bt-002-1909%20bitcoin-quantum-resistance/content.md)
 - `Bt-003-2002` [(2020.02) 数据上链：从 bitsv 到打点 API](./B-Bitcoin/Bt-003-2002%20opreturn-of-dotapi-and-bitsv/content.md)
 - `Bt-004-2005` [(2020.05) Merchant API 与超低费率](./B-Bitcoin/Bt-004-2005%20merchant-api-and-fee/content.md)
-- `Bt-005-2009` [(2020.09) 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009 use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
+- `Bt-005-2009` [(2020.09) 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009%20use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
 
 #### 区块链游戏 (`Bg-00n`) blockchain-game
 
@@ -43,6 +43,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bg-002-1808` [(2018.08) 火币“区块链+游戏”产业专题报告 (干货版)](./B-Bitcoin/Bg-002-1808%20huobi-blockchain-game-industry-report/content.md)
 - `Bg-003-1909` [(2019.09) 区块链与游戏结合的再思考](./B-Bitcoin/Bg-003-1909%20blockchain-game-rethink/content.md)
 - `Bg-004-2002` [(2020.02) 小聪游戏 - BSV 链上游戏开发的探索与实践](./B-Bitcoin/Bg-004-2002%20bitcoin-sv-satoplay-intro/content.md)
+- `Bg-005-2009` [(2020.09) 打点创新营 2.0 杂记 - 为什么要把 BSV 用在游戏（这个应用场景）里？](./B-Bitcoin/Bg-005-2009%20dotcamp2-use-bsv-in-games/2020-09-21-dotcamp2-use-bsv-in-games.md)
 
 ### **`P系列`** 产品相关
 
