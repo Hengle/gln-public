@@ -28,6 +28,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `B-003-2001` [(2020.01) BSV 中国大会的动容一刻](./B-Bitcoin/B-003-2001%20bsv-beijing-touching-moment/content.md)
 - `B-004-2005` [(2020.05) Craig 关于财产权的说明 (2015)](./B-Bitcoin/B-004-2005%20craig-about-property-right/content.md)
 - `B-005-2005` [(2020.05) 主观货币 (Subjective Money)](./B-Bitcoin/B-005-2005%20cobra-subjective-money/content.md)
+- `B-006-2009` [(2020.09) [译] "接下来会如何" (What Comes Next)](./B-Bitcoin/B-006-2009-what-comes-next/content.md)
 
 #### 区块链技术 (`Bt-00n`) blockchain-tech
 
