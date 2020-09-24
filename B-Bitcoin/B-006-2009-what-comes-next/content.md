@@ -436,6 +436,6 @@ And if you're not paying attention, you might not be anticipating what comes nex
 
 - 顾露 (Gu Lu) 于免成居
 - 时间: 2020-09-24
-- 编号: B-006-2009
+- 编号: [B-006-2009](content.md)
 - 本文遵循 [Creative Commons BY-NC-ND 4.0 许可协议](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 - 永久链接 [https://gulu-dev.com/post/2020/2020-09-24-what-comes-next](https://gulu-dev.com/post/2020/2020-09-24-what-comes-next)
