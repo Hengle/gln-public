@@ -69,6 +69,10 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`E系列`** 散文随笔
 
+### **`Others`** 
+
+- `O-001-2010` [BA金山区块链交流](./O-Others/O-001-2010-ba-kingsoft-visit)
+
 
 ## 版权声明 (License)
 
