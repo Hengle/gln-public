@@ -2,18 +2,18 @@
 
 ## 简介 (Intro)
 
-这个库包含了我的所有公开已分类文档，作为一个中央归档库方便未来的引用。  
+这个库包含了我的所有公开已分类文档和演讲，作为一个中央归档库方便未来的引用。  
 This repository contains all categorized public writings created by Gu Lu for future reference.
 
-## 分类 (Categorization)
+### 分类 (Categories)
 
-- **`B系列`** [Bitcoin/Blockchain 相关的 **原理或实践** 类文章](./B-Bitcoin/)
-- **`P系列`** [产品相关的 **思路，方法，功能，介绍** 类文章](./P-Products/)
-- **`D系列`** [开发相关的 **技术或管理** 类文章](./D-Dev/)
-- **`L系列`** [系统性学习相关的 **在线课程讲义或笔记**](./L-Learning/)
-- **`E系列`** [未包含在上面分类中的 **文章，散文，随笔** 等](./E-Essays/)
+- **`币链 B-Bitcoin`** Bitcoin/Blockchain 相关的 **原理或实践** 类文章
+- **`产品 P-Products`** 产品相关的 **思路，方法，功能，介绍** 类文章
+- **`开发 D-Development`** 开发相关的 **技术或管理** 类文章
+- **`学习 L-Learning`** 系统性学习相关的 **在线课程讲义或笔记**
+- **`散文 E-Essays`** 一般性的 **散文和随笔** 等
 
------
+### 规则 (Rules)
 
 - **基本规则** 分类系统由“大写分类字母+数字编号”构成，子分类允许追加一个小写的分类字母。
 - **默认分类** 在某个大类下不确定子分类的文章，将自动出现在该大类的默认分类里。
@@ -21,7 +21,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`B系列`** Bitcoin/Blockchain 相关
 
-#### 默认分类 (`B-00n`) blockchain-default
+#### 默认分类 (`B` blockchain-default) 
 
 - `B-001-1912` [(2019.12) 为什么这么多人讨厌 Bitcoin SV？ (译与评论)](./B-Bitcoin/B-001-1912%20why-hate-bsv/content.md)
 - `B-002-2001` [(2020.01) DotCamp 简记](./B-Bitcoin/B-002-2001%20dot-camp/content.md)
@@ -30,7 +30,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `B-005-2005` [(2020.05) 主观货币 (Subjective Money)](./B-Bitcoin/B-005-2005%20cobra-subjective-money/content.md)
 - `B-006-2009` [(2020.09) [译] "接下来会如何" (What Comes Next)](./B-Bitcoin/B-006-2009-what-comes-next/content.md)
 
-#### 区块链技术 (`Bt-00n`) blockchain-tech
+#### 区块链技术 (`Bt` blockchain-tech) 
 
 - `Bt-001-1907` [(2019.07) 链上运算：从 ETH 到 BSV](./B-Bitcoin/Bt-001-1907%20onchain-computing-from-eth-to-bsv/content.md)
 - `Bt-002-1909` [(2019.09) 比特币的量子抵抗](./B-Bitcoin/Bt-002-1909%20bitcoin-quantum-resistance/content.md)
@@ -39,7 +39,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-005-2009` [(2020.09) 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009%20use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
 - `Bt-006-2010` [(2020.10) BSV 线上研讨会：Bitcoin SV 应用层协议](./B-Bitcoin/Bt-006-2010-webinar-app-layer-protocol/content.md)
 
-#### 区块链游戏 (`Bg-00n`) blockchain-game
+#### 区块链游戏 (`Bg` blockchain-game) 
 
 - `Bg-001-1502` [(2015.02) 玩的就是资产! - 比特币与游戏货币体系](./B-Bitcoin/Bg-001-1502%20bitcoin-and-online-game-economics/content.md)
 - `Bg-002-1808` [(2018.08) 火币“区块链+游戏”产业专题报告 (干货版)](./B-Bitcoin/Bg-002-1808%20huobi-blockchain-game-industry-report/content.md)
@@ -55,9 +55,12 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`D系列`** 开发相关
 
-#### D-00n (dev-default) 默认分类
-#### Dp-00n (dev-programming) 语言，库，工具等代码相关
-#### Dg-00n (dev-game) 游戏开发相关
+#### 默认分类 (`D` dev-default) 
+#### 编程相关 (`Dp` dev-programming) 语言，库，工具等代码相关
+
+#### 游戏开发 (`Dg` dev-game) 游戏开发相关
+
+- `Dg-001-1801` 演讲 [(2018.01) Dice (EA) 工作室游戏开发技术概览](./D-Dev/Dg-001-1801-ea-dice-tech-overview)
 
 ### **`L系列`** 系统性学习相关
 
@@ -66,17 +69,14 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`E系列`** 散文随笔
 
-### **Others** 
-
-- `O-001-1801` 演讲 [(2018.01) Dice (EA) 工作室游戏开发技术概览](./O-Others/O-001-1801-ea-dice-tech-overview)
 
 ## 版权声明 (License)
 
 除非针对部分内容特别的声明，此库中所有的内容都遵循 [**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议。  
-Except where otherwise noted, content in this repository is licensed under a Creative Commons Attribution 4.0 International license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
+Except where otherwise noted, content in this repository is licensed under a **Creative Commons Attribution 4.0 International license** ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
 
 除非针对部分内容的特别声明，此库中所有的代码（包含示例，片段，项目）都遵循 [**MIT 开源协议**](https://opensource.org/licenses/MIT)。  
-Except where otherwise noted, code (including samples, snippets, projects) in this repository is licensed under The MIT License ([MIT](https://opensource.org/licenses/MIT)).
+Except where otherwise noted, code (including samples, snippets, projects) in this repository is licensed under **The MIT License** ([MIT](https://opensource.org/licenses/MIT)).
 
 ------
 
