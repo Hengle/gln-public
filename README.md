@@ -69,6 +69,8 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`E系列`** 散文随笔
 
+- `E-001-2011` [《乔丹传奇》 (段旭)](./E-Essays/E-001-2011-michael-jordan)
+
 ### **`Others`** 
 
 - `O-001-2010` [BA金山区块链交流](./O-Others/O-001-2010-ba-kingsoft-visit)
