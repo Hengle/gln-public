@@ -1,24 +1,25 @@
 +++
-title = "2020.11 《乔丹传奇》 (段旭) 小记"
+title = "2020.11 《乔丹传奇》 (段旭) 阅读笔记"
 date = "2020-11-06"
 description = ""
 featured = false
 tags = [
     "2020",
     "随笔",
+    "阅读笔记",
 ]
 categories = [
     "Essays",
 ]
 aliases = ["2020-11-06-michael-jordan"]
-thumbnail = "http://brimless-img.satoplay.cn/2020-11-06-michael-jordan/jordan-min.jpg"
+thumbnail = "https://brimless-1257802845.cos.ap-nanjing.myqcloud.com/2020-11-06-michael-jordan/jordan-min.jpg"
 +++
 
 前两天读了段旭在 2013 年写的《乔丹传奇》。我很少读传记，偶然翻到这本书，一气读完，非常精彩，摘录了一些有趣的句子，也做了全文的梳理。
 
 <!--more-->
 
-![《乔丹传奇》 ](http://brimless-img.satoplay.cn/2020-11-06-michael-jordan/jordan-min.jpg)
+![《乔丹传奇》 ](https://brimless-1257802845.cos.ap-nanjing.myqcloud.com/2020-11-06-michael-jordan/jordan-min.jpg)
 
 -----
 
@@ -92,16 +93,20 @@ thumbnail = "http://brimless-img.satoplay.cn/2020-11-06-michael-jordan/jordan-mi
 
 -----
 
-![《乔丹传奇》 全书梳理](http://brimless-img.satoplay.cn/2020-11-06-michael-jordan/jordan-mmap.png)
+## 结构图，及相关的其他资源
 
------
+- [(gln-public) 相关的笔记及资源见这里](https://github.com/gl-notes/gln-public/tree/master/E-Essays/E-001-2011-michael-jordan)
 
-- [笔记，结构图及其他资料](https://github.com/gl-notes/gln-public/tree/master/E-Essays/E-001-2011-michael-jordan)
+![《乔丹传奇》 全书梳理](https://brimless-1257802845.cos.ap-nanjing.myqcloud.com/2020-11-06-michael-jordan/jordan-mmap.png)
+
+
+----------
+
+- [留言点这里](https://gitee.com/gu-lu/blog-comments/issues)
 
 ----------
 
 - 顾露 (Gu Lu) 于免成居
 - 时间: 2020-11-06
 - 编号: E-001-2011
-- 永久链接: N/A
 - 本文遵循 [Creative Commons BY-NC-ND 4.0 许可协议](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
