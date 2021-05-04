@@ -38,6 +38,8 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-004-2005` [(2020.05) Merchant API 与超低费率](./B-Bitcoin/Bt-004-2005%20merchant-api-and-fee/content.md)
 - `Bt-005-2009` [(2020.09) 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009%20use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
 - `Bt-006-2010` [(2020.10) BSV 线上研讨会：Bitcoin SV 应用层协议](./B-Bitcoin/Bt-006-2010-webinar-app-layer-protocol/content.md)
+- `Bt-008-2104` :heart: [(2021.04) BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
+- `Bt-009-2105` :heart: [(2021.05) 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
 
 #### 区块链游戏 (`Bg` blockchain-game) 
 
@@ -52,6 +54,7 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `P-001-2007` [(2020.07) 小聪游戏 《币币大作战》 首次测试小结](./P-Products/P-001-2007%20bbio-beta-test/content.md)
 - `P-002-2007` [(2020.07) 小聪接受 CoinGeek 远程视频采访](./P-Products/P-002-2007%20coingeek-interview/content.md)
 - `P-003-2008` [(2020.08) BSV 首届中文 devcon 小聪主题演讲](./P-Products/P-003-2008%20satoplay-production-path/2020-08-30-satoplay-production-path.md)
+- `P-004-2103` [(2021.03) 【公告】 三件小事 (小聪 3.19 公告)](./P-Products/P-003-2008%20satoplay-production-path/2020-08-30-satoplay-production-path.md)
 
 ### **`D系列`** 开发相关
 
