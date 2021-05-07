@@ -26,35 +26,35 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `B-001-1912` [2019.12 为什么这么多人讨厌 Bitcoin SV？](https://gulu-dev.com/post/2019/2019-12-29-why-hate-bsv)
 - `B-002-2001` [2020.01 DotCamp 简记](https://gulu-dev.com/post/2020/2020-01-06-dot-camp)
 - `B-003-2001` [2020.01 BSV 中国大会的动容一刻](https://gulu-dev.com/post/2020/2020-01-31-bsv-beijing-touching-moment)
-- `B-004-2005` [(2020.05) Craig 关于财产权的说明 (2015)](./B-Bitcoin/B-004-2005%20craig-about-property-right/content.md)
-- `B-005-2005` [(2020.05) 主观货币 (Subjective Money)](./B-Bitcoin/B-005-2005%20cobra-subjective-money/content.md)
-- `B-006-2009` [(2020.09) [译] "接下来会如何" (What Comes Next)](./B-Bitcoin/B-006-2009-what-comes-next/content.md)
+- `B-004-2005` [2020.05 Craig 关于财产权的说明 (2015)](https://gulu-dev.com/post/2020/2020-05-16-craig-about-property-right)
+- `B-005-2005` [2020.05 主观货币 (Subjective Money)](https://gulu-dev.com/post/2020/2020-05-27-cobra-subjective-money)
+- `B-006-2009` [2020.09 [译] "接下来会如何" (What Comes Next)](https://gulu-dev.com/post/2020/2020-09-24-what-comes-next)
 
 #### 区块链技术 (`Bt` blockchain-tech) 
 
-- `Bt-001-1907` [(2019.07) 链上运算：从 ETH 到 BSV](./B-Bitcoin/Bt-001-1907%20onchain-computing-from-eth-to-bsv/content.md)
-- `Bt-002-1909` [(2019.09) 比特币的量子抵抗](./B-Bitcoin/Bt-002-1909%20bitcoin-quantum-resistance/content.md)
-- `Bt-003-2002` [(2020.02) 数据上链：从 bitsv 到打点 API](./B-Bitcoin/Bt-003-2002%20opreturn-of-dotapi-and-bitsv/content.md)
-- `Bt-004-2005` [(2020.05) Merchant API 与超低费率](./B-Bitcoin/Bt-004-2005%20merchant-api-and-fee/content.md)
-- `Bt-005-2009` [(2020.09) 使用简易支付验证确保前序交易的签名有效性和交易完整性](./B-Bitcoin/Bt-005-2009%20use-spv-for-previous-tx-validation/2020-09-01-use-spv-for-previous-tx-validation.md)
-- `Bt-006-2010` [(2020.10) BSV 线上研讨会：Bitcoin SV 应用层协议](./B-Bitcoin/Bt-006-2010-webinar-app-layer-protocol/content.md)
-- `Bt-008-2104` :heart: [(2021.04) BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
-- `Bt-009-2105` :heart: [(2021.05) 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
+- `Bt-001-1907` [2019.07 链上运算：从 ETH 到 BSV](./B-Bitcoin/Bt-001-1907%20onchain-computing-from-eth-to-bsv/content.md)
+- `Bt-002-1909` [2019.09 比特币的量子抵抗](./B-Bitcoin/Bt-002-1909%20bitcoin-quantum-resistance/content.md)
+- `Bt-003-2002` [2020.02 数据上链：从 bitsv 到打点 API](https://gulu-dev.com/post/2020/2020-02-02-opreturn-of-dotapi-and-bitsv)
+- `Bt-004-2005` [2020.05 Merchant API 与超低费率](https://gulu-dev.com/post/2020/2020-05-14-merchant-api-and-fee)
+- `Bt-005-2009` [2020.09 使用简易支付验证确保前序交易的签名有效性和交易完整性](https://gulu-dev.com/post/2020/2020-09-01-use-spv-for-previous-tx-validation)
+- `Bt-006-2010` [2020.10 BSV 线上研讨会：Bitcoin SV 应用层协议](https://gulu-dev.com/post/2020/2020-10-04-webinar-app-layer-protocol)
+- `Bt-008-2104` :heart: [2021.04 BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
+- `Bt-009-2105` :heart: [2021.05 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
 
 #### 区块链游戏 (`Bg` blockchain-game) 
 
-- `Bg-001-1502` [(2015.02) 玩的就是资产! - 比特币与游戏货币体系](./B-Bitcoin/Bg-001-1502%20bitcoin-and-online-game-economics/content.md)
-- `Bg-002-1808` [(2018.08) 火币“区块链+游戏”产业专题报告 (干货版)](./B-Bitcoin/Bg-002-1808%20huobi-blockchain-game-industry-report/content.md)
-- `Bg-003-1909` [(2019.09) 区块链与游戏结合的再思考](./B-Bitcoin/Bg-003-1909%20blockchain-game-rethink/content.md)
-- `Bg-004-2002` [(2020.02) 小聪游戏 - BSV 链上游戏开发的探索与实践](./B-Bitcoin/Bg-004-2002%20bitcoin-sv-satoplay-intro/content.md)
-- `Bg-005-2009` [(2020.09) 打点创新营 2.0 杂记 - 为什么要把 BSV 用在游戏（这个应用场景）里？](./B-Bitcoin/Bg-005-2009%20dotcamp2-use-bsv-in-games/2020-09-21-dotcamp2-use-bsv-in-games.md)
+- `Bg-001-1502` [2015.02 玩的就是资产! - 比特币与游戏货币体系](./B-Bitcoin/Bg-001-1502%20bitcoin-and-online-game-economics/content.md)
+- `Bg-002-1808` [2018.08 火币“区块链+游戏”产业专题报告 (干货版)](./B-Bitcoin/Bg-002-1808%20huobi-blockchain-game-industry-report/content.md)
+- `Bg-003-1909` [2019.09 区块链与游戏结合的再思考](./B-Bitcoin/Bg-003-1909%20blockchain-game-rethink/content.md)
+- `Bg-004-2002` [2020.02 小聪游戏 - BSV 链上游戏开发的探索与实践](https://gulu-dev.com/post/2020/2020-02-11-bitcoin-sv-satoplay-intro)
+- `Bg-005-2009` [2020.09 打点创新营 2.0 杂记 - 为什么要把 BSV 用在游戏（这个应用场景）里？](https://gulu-dev.com/post/2020/2020-09-21-dotcamp2-use-bsv-in-games)
 
 ### **`P系列`** 产品相关
 
-- `P-001-2007` [(2020.07) 小聪游戏 《币币大作战》 首次测试小结](./P-Products/P-001-2007%20bbio-beta-test/content.md)
-- `P-002-2007` [(2020.07) 小聪接受 CoinGeek 远程视频采访](./P-Products/P-002-2007%20coingeek-interview/content.md)
-- `P-003-2008` [(2020.08) BSV 首届中文 devcon 小聪主题演讲](./P-Products/P-003-2008%20satoplay-production-path/2020-08-30-satoplay-production-path.md)
-- `P-004-2103` [(2021.03) 【公告】 三件小事 (小聪 3.19 公告)](./P-Products/P-003-2008%20satoplay-production-path/2020-08-30-satoplay-production-path.md)
+- `P-001-2007` [2020.07 小聪游戏 《币币大作战》 首次测试小结](https://gulu-dev.com/post/2020/2020-07-07-bbio-beta-test)
+- `P-002-2007` [2020.07 小聪接受 CoinGeek 远程视频采访](https://gulu-dev.com/post/2020/2020-07-10-coingeek-interview)
+- `P-003-2008` [2020.08 BSV 首届中文 devcon 小聪主题演讲](https://gulu-dev.com/post/2020/2020-08-30-satoplay-production-path)
+- `P-004-2103` [2021.03 【公告】 三件小事 (小聪 3.19 公告)](https://gulu-dev.com/post/2021-03-19-ann-3-minor-matters)
 
 ### **`D系列`** 开发相关
 
@@ -72,8 +72,9 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`E系列`** 散文随笔
 
-- `E-001-2011` [《乔丹传奇》 (段旭) 阅读笔记](./E-Essays/E-001-2011-michael-jordan)
-- `E-002-2011` [抓住机会](./E-Essays/E-002-2011-grasp-the-opportunities)
+- `E-001-2011` [《乔丹传奇》 (段旭) 阅读笔记](https://gulu-dev.com/post/2020/2020-11-06-michael-jordan/)
+- `E-002-2011` [抓住机会](https://gulu-dev.com/post/2020/2020-11-14-grasp-the-opportunities/)
+- `E-003-2004` [2020.04 Wolfram 万物理论的简要解释](https://gulu-dev.com/post/2020/2020-04-23-wolfram-fundamental-theory)
 
 ### **`C系列`** 文化相关
 
