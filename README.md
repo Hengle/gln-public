@@ -21,11 +21,11 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 ### **`B系列`** Bitcoin/Blockchain 相关
 
-#### 默认分类 (`B` blockchain-default) 
+#### 区块链 (`B` blockchain-default) 
 
-- `B-001-1912` [(2019.12) 为什么这么多人讨厌 Bitcoin SV？ (译与评论)](./B-Bitcoin/B-001-1912%20why-hate-bsv/2019-12-29-why-hate-bsv)
-- `B-002-2001` [(2020.01) DotCamp 简记](./B-Bitcoin/B-002-2001%20dot-camp/content.md)
-- `B-003-2001` [(2020.01) BSV 中国大会的动容一刻](./B-Bitcoin/B-003-2001%20bsv-beijing-touching-moment/content.md)
+- `B-001-1912` [2019.12 为什么这么多人讨厌 Bitcoin SV？](https://gulu-dev.com/post/2019/2019-12-29-why-hate-bsv)
+- `B-002-2001` [2020.01 DotCamp 简记](https://gulu-dev.com/post/2020/2020-01-06-dot-camp)
+- `B-003-2001` [2020.01 BSV 中国大会的动容一刻](https://gulu-dev.com/post/2020/2020-01-31-bsv-beijing-touching-moment)
 - `B-004-2005` [(2020.05) Craig 关于财产权的说明 (2015)](./B-Bitcoin/B-004-2005%20craig-about-property-right/content.md)
 - `B-005-2005` [(2020.05) 主观货币 (Subjective Money)](./B-Bitcoin/B-005-2005%20cobra-subjective-money/content.md)
 - `B-006-2009` [(2020.09) [译] "接下来会如何" (What Comes Next)](./B-Bitcoin/B-006-2009-what-comes-next/content.md)
@@ -74,6 +74,10 @@ This repository contains all categorized public writings created by Gu Lu for fu
 
 - `E-001-2011` [《乔丹传奇》 (段旭) 阅读笔记](./E-Essays/E-001-2011-michael-jordan)
 - `E-002-2011` [抓住机会](./E-Essays/E-002-2011-grasp-the-opportunities)
+
+### **`C系列`** 文化相关
+
+- `C-001-2001` [2020.01 《嵇康之死》小记](https://gulu-dev.com/post/2020/2020-01-26-ji-kang)
 
 ### **`Others`** 
 
