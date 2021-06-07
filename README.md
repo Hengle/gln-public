@@ -38,8 +38,9 @@ This repository contains all categorized public writings created by Gu Lu for fu
 - `Bt-004-2005` [2020.05 Merchant API 与超低费率](https://gulu-dev.com/post/2020/2020-05-14-merchant-api-and-fee)
 - `Bt-005-2009` [2020.09 使用简易支付验证确保前序交易的签名有效性和交易完整性](https://gulu-dev.com/post/2020/2020-09-01-use-spv-for-previous-tx-validation)
 - `Bt-006-2010` [2020.10 BSV 线上研讨会：Bitcoin SV 应用层协议](https://gulu-dev.com/post/2020/2020-10-04-webinar-app-layer-protocol)
-- `Bt-008-2104` :heart: [2021.04 BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
-- `Bt-009-2105` :heart: [2021.05 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
+- `Bt-008-2104` [2021.04 BSV 开发技术与工具概览 (v2)](https://gulu-dev.com/post/2021/2021-04-29-bsv-tech-and-tool-v2/) ([公众号](https://mp.weixin.qq.com/s/mFw-lsIw0MoRw4MuSTW_5Q), [知乎专栏](https://zhuanlan.zhihu.com/p/369109930))
+- `Bt-009-2105` [2021.05 感应合约的简介和基本原理](https://gulu-dev.com/post/2021/2021-05-01-sensible-intro/) ([公众号](https://mp.weixin.qq.com/s/ZnAZUNjRhInSXy5iqKgUbA), [知乎专栏](https://zhuanlan.zhihu.com/p/369662070))
+- `Bt-010-2106` :heart: [2021.06 Joshua 对感应合约的采访](https://gulu-dev.com/post/2021/2021-06-07-sensible-interview-by-joshua) ([公众号](https://mp.weixin.qq.com/s/7hh8c40abEK1akwGmEe01w), [知乎专栏](https://zhuanlan.zhihu.com/p/378699539))
 
 #### 区块链游戏 (`Bg` blockchain-game) 
 
