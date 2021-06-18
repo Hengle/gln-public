@@ -60,11 +60,16 @@ This repository contains all categorized public writings created by Gu Lu for fu
 ### **`D系列`** 开发相关
 
 #### 默认分类 (`D` dev-default) 
+
 #### 编程相关 (`Dp` dev-programming) 语言，库，工具等代码相关
 
 #### 游戏开发 (`Dg` dev-game) 游戏开发相关
 
 - `Dg-001-1801` 演讲 [(2018.01) Dice (EA) 工作室游戏开发技术概览](./D-Dev/Dg-001-1801-ea-dice-tech-overview)
+
+#### 游戏开发 (`Dm` dev-metaverse) 元宇宙相关
+
+- `Dm-001-2106` [Metaverse 101 (1/n) 程序化宇宙生成](https://gulu-dev.com/post/2021/2021-06-18-mv-procedural-universe-generation)
 
 ### **`L系列`** 系统性学习相关
 
